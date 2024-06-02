@@ -6,7 +6,6 @@ Welcome to the Simon Game Challenge repository! This project is a web-based impl
 
 - [Simon Game Challenge](#simon-game-challenge)
   - [Table of Contents](#table-of-contents)
-  - [Demo](#demo)
   - [Features](#features)
   - [Installation](#installation)
   - [Usage](#usage)
