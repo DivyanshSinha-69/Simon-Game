@@ -13,9 +13,6 @@ Welcome to the Simon Game Challenge repository! This project is a web-based impl
   - [Contributing](#contributing)
   - [Acknowledgements](#acknowledgements)
 
-## Demo
-
-Check out the live demo of the game [here](#).
 
 ## Features
 
@@ -63,5 +60,4 @@ Please ensure your code follows our coding standards and includes appropriate te
 ## Acknowledgements
 
 - Inspired by the classic Simon electronic game.
-- Sounds and graphics were sourced from [source name/link].
-- Built with love by [Your Name] and contributors.
+- Built with love by Divyansh Sinha.
