@@ -11,7 +11,6 @@ Welcome to the Simon Game Challenge repository! This project is a web-based impl
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contributing](#contributing)
-  - [License](#license)
   - [Acknowledgements](#acknowledgements)
 
 ## Demo
@@ -60,10 +59,6 @@ Contributions are welcome! To contribute to this project, follow these steps:
 5. Create a new Pull Request
 
 Please ensure your code follows our coding standards and includes appropriate tests.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
